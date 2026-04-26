@@ -6,7 +6,7 @@
      ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:0a0f1e&height=220&section=header&text=Sakepuram%20Vamsi&fontSize=52&fontColor=e8f4fd&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Agent%20Architect&descSize=17&descAlignY=58&descColor=7ec8e3" />
+  <img src="./banner.png" alt="Sakepuram Vamsi — Data Scientist · AI Engineer · Agent Architect" width="100%" />
 </div>
 
 <div align="center">
