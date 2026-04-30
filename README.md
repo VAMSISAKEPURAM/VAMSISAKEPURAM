@@ -31,7 +31,7 @@
 ```python
 #!/usr/bin/env python3
 # ──────────────────────────────────────────────────────────────────────
-#  Sakepuram Vamsi  ·  Data Scientist & AI Engineer  ·  Hyderabad, India
+#  Sakepuram Vamsi  ·  Data Scientist & AI Engineer  ·  Bangalore, India
 # ──────────────────────────────────────────────────────────────────────
 
 class DataScientist:
