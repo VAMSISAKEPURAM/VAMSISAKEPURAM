@@ -38,9 +38,9 @@ class DataScientist:
 
     def __init__(self):
         self.name        = "Sakepuram Vamsi"
-        self.role        = "Data Scientist @ ANTS IT Solutions Pvt. Ltd."
-        self.experience  = "2+ Years in Production AI/ML Systems"
-        self.location    = "📍 Hyderabad, India | Open to Relocation"
+        self.role        = "Data Scientist @ AI/ML LABS Pvt. Ltd."
+        self.experience  = "1+ Years in Production AI/ML Systems"
+        self.location    = "📍 Bangalore, India | Open to Relocation"
         self.education   = "B.Sc. Maths & CS — Sri Venkateswara University (CGPA: 9.10)"
 
         self.what_i_build = [
