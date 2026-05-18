@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="./banner.png" alt="Sakepuram Vamsi — Data Scientist · AI Engineer · Agent Architect" width="100%" />
-</div>
+</div> 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=🤖+Building+Agentic+AI+Systems+that+ship+to+production;🧠+LangChain+·+RAG+·+GPT-4+·+Multi-Agent+Orchestration;📊+94%25+Churn+Model+·+85%25+First-Contact+Resolution;🔬+2%2B+Years+·+End-to-End+ML+%26+GenAI+Engineering" alt="Typing SVG" />
