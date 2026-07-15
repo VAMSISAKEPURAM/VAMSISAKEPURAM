@@ -6,11 +6,11 @@
      ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  -->
 
 <div align="center">
-  <img src="./banner.png" alt="Sakepuram Vamsi — Data Scientist · AI Engineer · RAG Specialist" width="100%" />
+  <img src="./banner.png" alt="Sakepuram Vamsi — Data Scientist · Agentic AI · RAG Specialist" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=🤖+Building+RAG+Pipelines+%26+Agentic+AI+that+ship+to+production;🧠+LangChain+·+GPT-4+·+FAISS+·+HuggingFace+Embeddings;📊+95%25+Crop+Yield+·+94%25+Churn+·+90%25+Weather+Forecasting;🌾+SmartAgri+AI+·+50%2C000%2B+Farmers+·+6+ML%2FDL+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=🤖+Building+RAG+Pipelines+%26+Agentic+AI+that+ship+to+production;🧠+LangChain+·+GPT-4+·+Pinecone+·+FAISS;📊+94%25+Churn+Accuracy+·+88%25+RAG+Relevance+·+70%25+Faster+Ticket+Routing;💬+AI+Support+Agent+·+85%25+First-Contact+Resolution" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-sakepuram-datascience)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsisakepuram@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakepuramvamsi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAMSISAKEPURAM)
 [![Profile Views](https://komarev.com/ghpvc/?username=VAMSISAKEPURAM&label=Profile+Views&color=1a3a5c&style=for-the-badge)](https://github.com/VAMSISAKEPURAM)
 
@@ -31,44 +31,40 @@
 ```python
 #!/usr/bin/env python3
 # ──────────────────────────────────────────────────────────────────────
-#  Sakepuram Vamsi  ·  Data Scientist & GenAI Associate  ·  Bengaluru, India
+#  Sakepuram Vamsi  ·  Data Scientist  ·  Punganur, Andhra Pradesh, India
 # ──────────────────────────────────────────────────────────────────────
 
 class DataScientist:
 
     def __init__(self):
         self.name        = "Sakepuram Vamsi"
-        self.role        = "Data Scientist & GenAI Associate @ AI/ML Labs"
-        self.location    = "📍 Bengaluru, India | Open to Relocation"
+        self.role        = "Data Scientist @ Indies Technologies"
+        self.location    = "📍 Punganur, Andhra Pradesh, India | Open to Relocation"
         self.education   = {
-            "MCA (2024–2026)"          : "Sri Venkateswara University — CGPA: 8.2",
             "B.Sc. Maths & CS (2021–2024)" : "Sri Venkateswara University — CGPA: 9.10",
         }
 
+        self.career_path = [
+            "Data Analyst Trainee   →  Mar 2024 – Aug 2024",
+            "Data Analyst           →  Sep 2024 – Aug 2025",
+            "Data Scientist         →  Sep 2025 – Present",
+        ]
+
         self.what_i_build = [
-            "🤖  Agentic AI & RAG systems  →  LangChain + GPT-4 + FAISS + OpenAI Embeddings",
-            "🌾  Precision Agriculture AI  →  6 ML/DL models · 50,000+ farmers served",
-            "📊  Predictive ML pipelines   →  XGBoost + SHAP + Bayesian Tuning",
-            "🌿  Computer Vision           →  EfficientNet + TensorFlow + Transfer Learning",
-            "⚡  Time-Series Forecasting   →  LSTM + Prophet + Weather API Integration",
+            "🤖  Agentic AI & Conversational Support Agents  →  LangChain + GPT-4 + ReAct Pattern",
+            "🔎  RAG & Personalization Systems                →  Pinecone + Embeddings + Semantic Search",
+            "📊  Predictive ML Pipelines                      →  XGBoost + SHAP + Bayesian Tuning",
+            "🧵  NLP & Sentiment Analysis                      →  Transformers + Feature Engineering",
         ]
 
         self.proven_results = {
-            "Crop Yield Prediction Accuracy"     : "95%  (XGBoost — SmartAgri AI)",
-            "Churn Prediction Accuracy"          : "94%  (XGBoost + Ensemble + SHAP)",
-            "Weather Early Warning Accuracy"     : "90%+ (LSTM — 24–72hr ahead)",
-            "RAG Farmer Response Improvement"    : "70%  faster field response",
-            "Market Price Forecast Accuracy"     : "85%+ (LSTM + Prophet hybrid)",
-            "Plant Disease Diagnosis Speed"      : "60%+ faster (EfficientNet CNN)",
-            "Retention Campaign Lift"            : "+18% pilot improvement",
-            "Team Productivity Gain"             : "+40% (Power Query + Python)",
+            "Churn Prediction Accuracy"        : "94%  (XGBoost + Ensemble + SHAP)",
+            "RAG Recommendation Relevance"     : "88%  (GPT-4 + Pinecone RAG)",
+            "Manual Ticket Routing Reduction"  : "70%  (LLM Intent Classification)",
+            "First-Contact Resolution Rate"    : "85%  (AI Support Agent)",
+            "Escalation Detection Accuracy"    : "92%",
+            "Retention Campaign Lift"          : "+18% (pilot campaign)",
         }
-
-        self.achievements = [
-            "🥇  ANVESHAN 2025 — University Level 1st Place",
-            "🥈  ANVESHAN 2025 — South Zone Runner-Up",
-            "🥉  AI4LIFE Hackathon 2026 — 2nd Place @ IISER Tirupati",
-        ]
 
         self.currently   = "Open to Data Scientist & AI Engineer roles"
         self.motto       = "In God we trust. All others must bring data. — W.E. Deming"
@@ -88,16 +84,12 @@ me.say_hi()
 
 | Metric | Result | Project |
 |:-------|:------:|:--------|
-| 🌾 Crop Yield Prediction | **95%** | XGBoost Regressor — SmartAgri AI |
 | 🎯 Churn Model Accuracy | **94%** | XGBoost + Ensemble + SHAP |
-| 🌿 Plant Disease Detection | **94%** | EfficientNet CNN — TensorFlow/Keras |
-| ⛅ Weather Early Warning | **90%+** | LSTM — 24–72hr Ahead |
-| 🤖 RAG Farmer Response Boost | **70% faster** | GPT-4 + LangChain + FAISS |
-| 💰 Market Price Forecast | **85%+** | LSTM + Prophet Hybrid |
+| 🔎 RAG Recommendation Relevance | **88%** | GPT-4 + Pinecone RAG Pipeline |
+| 🤖 Manual Ticket Routing Reduction | **70%** | LLM Intent Classification & Entity Extraction |
+| 💬 First-Contact Resolution Rate | **85%** | AI Customer Support Agent |
+| 🚨 Escalation Detection Accuracy | **92%** | Agentic Support Workflow |
 | 📈 Retention Campaign Lift | **+18%** | Churn Risk Segmentation |
-| ⚙️ Team Productivity Gain | **+40%** | Power Query + Python Automation |
-| 💧 Water Usage Reduction | **−30%** | Smart Irrigation — IoT + Regression |
-| 📊 Sales Forecast Accuracy | **+35%** | Ensemble ML — Large-scale Data |
 
 </div>
 
@@ -110,7 +102,6 @@ me.say_hi()
 ### ⚡ Agentic AI & Generative AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=for-the-badge&logo=chainlink&logoColor=58A6FF)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-0d1b2a?style=for-the-badge&logo=openai&logoColor=FFD700)
 ![FAISS](https://img.shields.io/badge/FAISS-003087?style=for-the-badge&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -119,7 +110,6 @@ me.say_hi()
 
 ### 🧠 Machine Learning
 ![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=for-the-badge&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-008000?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-0d1b2a?style=for-the-badge&logo=python&logoColor=58A6FF)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=python&logoColor=white)
@@ -128,34 +118,25 @@ me.say_hi()
 ### 🔬 Deep Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-0d1b2a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![LSTM](https://img.shields.io/badge/LSTM-1a3a5c?style=for-the-badge&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![ANN](https://img.shields.io/badge/ANN-1a3a5c?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-1a3a5c?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 💬 NLP & Embeddings
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-1C3A4A?style=for-the-badge&logo=huggingface&logoColor=58A6FF)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![OpenAI Embeddings](https://img.shields.io/badge/OpenAI_Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TF--IDF](https://img.shields.io/badge/TF--IDF-483D8B?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🐍 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_8.0-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🚀 Deployment & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -164,43 +145,61 @@ me.say_hi()
 ## 💼 Professional Experience
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%2FML_Labs-Data_Scientist_%26_GenAI_Associate-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Indies_Technologies-Data_Scientist-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Nov_2025_–_Present-Bengaluru,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
+  <img src="https://img.shields.io/badge/Sep_2025_–_Present-Andhra_Pradesh,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
 </div>
 
 <br/>
 
-> *End-to-end ML & GenAI engineering · RAG pipeline development · SHAP explainability · Precision agriculture AI*
+> *Agentic AI · LangChain + GPT-4 · Conversational support automation*
 
 | # | What I Built | Impact |
 |---|-------------|--------|
-| 🌾 | SmartAgri AI (team) — full-stack platform consolidating 6 ML/DL models for crop yield prediction, plant disease detection, weather forecasting, smart irrigation, market price prediction & RAG chatbot | **50,000+ farmers served** |
-| 🤖 | RAG-powered AI chatbot — GPT-4 + LangChain + OpenAI Embeddings + FAISS vector store for real-time crop diagnostics & irrigation advisories | **70% faster farmer field response** |
-| 📦 | LLM API integration (GPT-4 & Gemini) for chatbot & advisory modules; document Q&A using HuggingFace `all-MiniLM-L6-v2` semantic search over agricultural knowledge bases | **Production-grade semantic retrieval** |
-| 🌿 | EfficientNet CNN real-time plant disease & pest detection pipeline from leaf images; LSTM weather risk forecasting 24–72hr ahead | **60%+ faster diagnosis · 90%+ early warning accuracy** |
-| 📊 | Crop yield forecasting (XGBoost, 95% accuracy) & churn analysis with SHAP-based explainability — top 5 drivers communicated to non-technical stakeholders | **Top 5 churn drivers identified · +18% retention** |
-| 🔬 | EDA & feature engineering across transactional, demographic, and agricultural datasets; Bayesian hyperparameter tuning + cross-validation | **Continuous · Production-grade monitoring** |
+| 🤖 | Multi-turn conversational AI support agent using LangChain + GPT-4, applying the ReAct pattern with tool integrations — ticket lookup, order history, knowledge base search, refund processing | **Autonomous end-to-end ticket resolution** |
+| 🧠 | Conversation memory management system (`ConversationBufferMemory`) for context retention across multi-turn interactions, plus secure function-calling for refunds, order updates & escalation routing | **Context-aware, secure backend actions** |
+| 🎯 | Intent classification & entity extraction pipelines using LLMs | **70% reduction in manual ticket routing · 85% first-contact resolution · 92% escalation detection accuracy** |
+| 📟 | Streamlit interface with real-time conversation logging & action transparency | **QA-ready monitoring & observability** |
 
----
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Pantech_AI_Solutions-Data_Analyst_Intern-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Indies_Technologies-Data_Analyst-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Feb_2025_–_Aug_2025-Bengaluru,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
+  <img src="https://img.shields.io/badge/Sep_2024_–_Aug_2025-Andhra_Pradesh,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
 </div>
 
 <br/>
 
-> *Dashboard design · Workflow automation · Business intelligence · EDA & stakeholder communication*
+> *Generative AI personalization · Churn prediction · SHAP explainability*
 
 | # | What I Built | Impact |
 |---|-------------|--------|
-| 📊 | Interactive Power BI dashboards with drill-through analytics, KPI tracking, and dynamic filters for real-time operational reporting | **Real-time C-suite visibility** |
-| ⚙️ | Automated reporting workflows using Power Query and Python pipelines — eliminated manual effort across the team | **+40% team productivity** |
-| 📈 | Sales performance optimization — Regression & Ensemble ML on large-scale transactional datasets; automated pipelines saving 10+ hours/week | **+35% sales forecast accuracy** |
-| 🔍 | Advanced EDA to uncover business trends and support strategic decision-making across operational datasets | **Data-driven strategy** |
-| 🤝 | Collaborated with cross-functional teams to translate complex data insights into clear business recommendations for non-technical stakeholders | **Stakeholder-ready communications** |
+| 🔎 | Generative AI-powered personalization engine using GPT-4 + embeddings, with a RAG pipeline over a Pinecone vector database | **88% recommendation relevance score** |
+| 💬 | LangChain semantic search chains for customer preference analysis from unstructured feedback; automated marketing content generation via prompt engineering & few-shot learning | **Automated, personalized campaign content** |
+| 📊 | Embedding-based similarity search for lookalike customer segments; transformer-based NLP sentiment analysis at scale | **Key satisfaction & churn drivers uncovered** |
+| ⚙️ | End-to-end churn prediction pipeline (XGBoost + ensemble methods), 50+ engineered features from transaction, demographic & behavioral data | **94% churn prediction accuracy** |
+| 🔬 | Bayesian hyperparameter tuning + cross-validation; SHAP-based feature importance analysis of top 5 churn drivers | **Actionable retention strategy · +18% pilot lift** |
+| 📡 | Model monitoring pipeline with drift detection | **Continuous production performance tracking** |
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Indies_Technologies-Data_Analyst_Trainee-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mar_2024_–_Aug_2024-Andhra_Pradesh,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
+</div>
+
+<br/>
+
+> *EDA · SQL reporting · Dashboarding fundamentals*
+
+| # | What I Built | Impact |
+|---|-------------|--------|
+| 🔍 | Exploratory data analysis & data cleaning on customer transaction and behavioral datasets | **Reliable inputs for analytics team reporting** |
+| 📊 | SQL queries + Power BI/Tableau dashboards for retail performance & customer engagement tracking | **Ongoing performance visibility** |
+| 🧩 | Feature engineering & ad-hoc statistical analysis alongside senior analysts | **Foundational Python, SQL & visualization skills** |
+| 📝 | Documented data pipelines & analysis workflows | **Reproducible handoff across the team** |
 
 ---
 
@@ -210,140 +209,60 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 SmartAgri AI — Precision Agriculture Platform
-> **Full-stack AI · Team Project · Feb 2026 – Present**
+### 🤖 Intelligent Customer Support AI Agent
+> **Agentic AI + LangChain · Feb 2025 – Present**
 
-![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=python&logoColor=white)
-![LangChain RAG](https://img.shields.io/badge/LangChain_RAG-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM+Prophet-1a3a5c?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-003087?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-- 🌾 **Crop Yield Prediction**: XGBoost on 10+ variables — **95% accuracy**
-- 🌿 **Plant Disease & Pest Detection**: EfficientNet CNN — **60%+ faster than manual**
-- ⛅ **Weather Risk Forecasting**: LSTM — **90%+ early warning, 24–72hr ahead**
-- 💧 **Smart Irrigation**: Rule-Based Engine + Regression + IoT sensors — **30% less water**
-- 💰 **Market Price Prediction**: LSTM + Prophet hybrid — **85%+ forecast accuracy**
-- 🤖 **RAG AI Chatbot**: GPT-4 + LangChain + FAISS — **70% faster field response**
+- 🤖 Multi-turn conversational AI agent (LangChain + GPT-4) for autonomous ticket resolution
+- 🔧 ReAct pattern with tool integration: ticket lookup, order history, KB search, refund processing
+- 🧠 `ConversationBufferMemory` for multi-turn context retention
+- 🔐 Secure function calling for refunds, order updates & human escalation
+- 🎯 **70% less manual routing · 85% first-contact resolution · 92% escalation accuracy**
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Customer Churn Prediction & Retention
-> **Machine Learning · XGBoost · SHAP · MLOps**
-
-![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=python&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-0d1b2a?style=flat-square&logo=python&logoColor=58A6FF)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Bayesian](https://img.shields.io/badge/Bayesian_Tuning-483D8B?style=flat-square)
-
-- ⚙️ 50+ engineered features from transaction, demographic & behavioural data
-- 🔬 Bayesian hyperparameter tuning + cross-validation
-- 💥 SHAP explainability — top 5 churn drivers identified & communicated
-- 📡 Model monitoring pipeline with drift detection
-- 🎯 **94% accuracy · +18% pilot campaign retention**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧴 SkinCare AI
-> **Computer Vision · Generative AI · Healthcare**
-
-![CNN](https://img.shields.io/badge/CNN-D00000?style=flat-square)
-![GenAI](https://img.shields.io/badge/Generative_AI-FFD700?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- 📸 Image-based skin disease diagnosis via CNN classifier
-- 💊 AI generates a complete step-by-step treatment roadmap
-- 🏥 Recommends medicines, home remedies & lifestyle changes
-- ⚠️ Severity grading with smart doctor-referral triggers
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 University Chatbot & DocuMind
-> **RAG · LangChain · Vector Search · NLP**
+### 🔎 Customer Insights & Personalization Engine
+> **GenAI · Nov 2024 – Jan 2025**
 
 ![RAG](https://img.shields.io/badge/RAG-FFD700?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=flat-square&logo=huggingface&logoColor=black)
-
-- 🏫 24/7 institutional chatbot grounded on official university documents
-- 📄 DocuMind: upload PDF/DOCX/TXT → ask anything, get cited answers
-- 🔍 Semantic chunking via `all-MiniLM-L6-v2` for pinpoint retrieval
-- 💬 Contextual memory across multi-turn conversations
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Sales Performance Optimization
-> **Predictive Analytics · Power BI · Automation**
-
-![Ensemble ML](https://img.shields.io/badge/Ensemble_ML-228B22?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- 📊 Regression + Ensemble ML on large-scale transactional datasets
-- ⏱️ Automated reporting pipelines — **saving 10+ hours/week**
-- 🗺️ Power BI dashboards for regional KPI tracking & executive BI
-- 🎯 **+35% improvement in sales forecast accuracy**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 AI Document Intelligence Suite
-> **RAG · OpenAI Embeddings · FAISS · LangChain**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_Embeddings-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-003087?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
 
-- 🔍 Vector search using `text-embedding-ada-002` & `text-embedding-3-small/large`
-- 📄 Document loaders + text splitters for structured & unstructured sources
-- 🧠 Chroma & FAISS vector stores with semantic chunking strategies
-- 💬 Contextual Q&A with cited multi-document retrieval
+- 🔎 GenAI recommendation system using GPT-4 + embedding models
+- 📚 RAG pipeline with Pinecone vector database for product recommendations
+- 💬 LangChain chains for semantic product search & preference analysis
+- ✍️ Automated marketing content generation via prompt engineering & few-shot learning
+- 🎯 **88% recommendation relevance score**
 
 </td>
 </tr>
 </table>
 
----
+<table>
+<tr>
+<td width="100%" valign="top">
 
-## 🏅 Achievements
+### 📊 Customer Churn Prediction & Retention Model
+> **Machine Learning · Sep 2024 – Nov 2024**
 
-<div align="center">
+![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-0d1b2a?style=flat-square&logo=python&logoColor=58A6FF)
+![Bayesian](https://img.shields.io/badge/Bayesian_Tuning-483D8B?style=flat-square)
 
-| 🏅 | Award | Event | Year |
-|:--:|:------|:------|:----:|
-| 🥇 | **1st Place** | ANVESHAN — University Level | 2025 |
-| 🥈 | **Runner-Up** | ANVESHAN — South Zone Level | 2025 |
-| 🥉 | **2nd Place** | AI4LIFE Hackathon — IISER Tirupati | 2026 |
+- ⚙️ End-to-end churn prediction pipeline using XGBoost + ensemble methods
+- 🧩 50+ engineered features from transaction, demographic & behavioral data
+- 🔬 Bayesian hyperparameter tuning + cross-validation for generalization
+- 💥 SHAP-based feature importance — top 5 churn drivers identified
+- 📡 Model monitoring pipeline with drift detection
+- 🎯 **94% accuracy · +18% pilot campaign retention lift**
 
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-[![IBM](https://img.shields.io/badge/IBM-Data_Science_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/)
-&nbsp;
-[![Scaler](https://img.shields.io/badge/Scaler-Keras_%26_TensorFlow_Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.scaler.com/)
-<br/><br/>
-[![Intellipaat](https://img.shields.io/badge/Intellipaat-SQL_Certification-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://intellipaat.com/)
-&nbsp;
-[![Intellipaat](https://img.shields.io/badge/Intellipaat-Python_Certification-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://intellipaat.com/)
-&nbsp;
-[![Udemy](https://img.shields.io/badge/Udemy-Data_Analytics_Mastery-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -353,8 +272,7 @@ me.say_hi()
 
 | 🎓 Qualification | 🏫 Institution | 📊 Score |
 |:----------------|:--------------|:--------:|
-| Master of Computer Applications — MCA (2024–2026) | Sri Venkateswara University | **CGPA: 8.2** |
-| B.Sc. Mathematics & Computer Science (2021–2024) | Sri Venkateswara University | **CGPA: 9.10** |
+| B.Sc. Mathematics & Computer Science (2021 – 2024) | Sri Venkateswara University | **CGPA: 9.10** |
 
 </div>
 
@@ -384,11 +302,11 @@ me.say_hi()
 
 > *I'm actively looking for **Data Scientist** and **AI Engineer** roles where I can ship production systems that matter.*
 >
-> *Reach me at **vamsisakepuram@gmail.com** — I reply fast.*
+> *Reach me at **sakepuramvamsi@gmail.com** — I reply fast.*
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsisakepuram@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakepuramvamsi@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-sakepuram-datascience)
 &nbsp;
