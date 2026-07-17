@@ -1,9 +1,4 @@
-@@ -1,24 +1,24 @@
-<!-- ██╗   ██╗ █████╗ ███╗   ███╗███████╗██╗
-   ██║   ██║██╔══██╗████╗ ████║██╔════╝██║
-   ██║   ██║███████║██╔████╔██║███████╗██║
-   ╚██╗ ██╔╝██╔══██║██║╚██╔╝██║╚════██║██║
-    ╚████╔╝ ██║  ██║██║ ╚═╝ ██║███████║██║
+@@ -6,19 +6,19 @@
      ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  -->
 
 <div align="center">
@@ -40,7 +35,6 @@ class DataScientist:
     def __init__(self):
         self.name        = "Sakepuram Vamsi"
         self.role        = "Data Scientist @ AI/ML LABS Pvt. Ltd."
-        self.experience  = "1+ Years in Production AI/ML Systems"
         self.location    = "📍 Bangalore, India | Open to Relocation"
         self.education   = "B.Sc. Maths & CS — Sri Venkateswara University (CGPA: 9.10)"
         self.role        = "Data Scientist & GenAI Associate @ AI/ML Labs"
@@ -51,7 +45,6 @@ class DataScientist:
         }
 
         self.what_i_build = [
-            "🤖  Agentic AI systems  →  LangChain + GPT-4 + ReAct Pattern",
             "🔍  RAG pipelines       →  Pinecone + FAISS + OpenAI Embeddings",
             "📊  Predictive ML       →  XGBoost + SHAP + Bayesian Tuning",
             "🌿  Computer Vision     →  CNN + TensorFlow + Transfer Learning",
@@ -60,7 +53,6 @@ class DataScientist:
             "🌾  Precision Agriculture AI  →  6 ML/DL models · 50,000+ farmers served",
             "📊  Predictive ML pipelines   →  XGBoost + SHAP + Bayesian Tuning",
             "🌿  Computer Vision           →  EfficientNet + TensorFlow + Transfer Learning",
-            "⚡  Time-Series Forecasting   →  LSTM + Prophet + Weather API Integration",
         ]
 
         self.proven_results = {
@@ -85,7 +77,7 @@ class DataScientist:
             "🥈  ANVESHAN 2025 — South Zone Runner-Up",
             "🥉  AI4LIFE Hackathon 2026 — 2nd Place @ IISER Tirupati",
         ]
-@@ -83,14 +88,16 @@
+@@ -83,14 +88,16 @@ me.say_hi()
 
 | Metric | Result | Project |
 |:-------|:------:|:--------|
@@ -104,11 +96,10 @@ class DataScientist:
 | ⏱️ Report Turnaround Cut | **-50%** | NLP-to-SQL Agent |
 | ⚙️ Team Productivity Gain | **+40%** | Power Query + Python Automation |
 | 💧 Water Usage Reduction | **−30%** | Smart Irrigation — IoT + Regression |
-| 📊 Sales Forecast Accuracy | **+35%** | Ensemble ML — Large-scale Data |
 
 </div>
 
-@@ -103,15 +110,16 @@
+@@ -103,15 +110,16 @@ me.say_hi()
 ### ⚡ Agentic AI & Generative AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=for-the-badge&logo=chainlink&logoColor=58A6FF)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -128,7 +119,7 @@ class DataScientist:
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-0d1b2a?style=for-the-badge&logo=python&logoColor=58A6FF)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=python&logoColor=white)
-@@ -120,23 +128,34 @@
+@@ -120,23 +128,34 @@ me.say_hi()
 ### 🔬 Deep Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -166,7 +157,7 @@ class DataScientist:
 
 </div>
 
-@@ -145,67 +164,69 @@
+@@ -145,67 +164,69 @@ me.say_hi()
 ## 💼 Professional Experience
 
 <div align="center">
@@ -184,7 +175,6 @@ class DataScientist:
 
 | # | What I Built | Impact |
 |---|-------------|--------|
-| 🤖 | Multi-turn Agentic AI support system — LangChain + GPT-4, ReAct pattern, ConversationBufferMemory, tool integrations | **85% first-contact resolution · 92% escalation detection · 70% less manual routing** |
 | 💡 | GenAI Customer Insights Engine — RAG pipeline (Pinecone + GPT-4 embeddings), transformer sentiment analysis, few-shot marketing content | **88% recommendation relevance** |
 | 📊 | Customer Churn Prediction — XGBoost + ensemble, 50+ features, Bayesian tuning, SHAP explainability | **94% accuracy · +18% pilot retention lift** |
 | 🔗 | LangChain semantic search, lookalike segmentation, unstructured feedback analysis, model drift monitoring | **Production-grade · Continuous tracking** |
@@ -211,31 +201,6 @@ class DataScientist:
 <td width="50%" valign="top">
 <br/>
 
-### 🤖 Intelligent Customer Support AI Agent
-> **Agentic AI · LangChain · GPT-4 · Production**
-> *Dashboard design · Workflow automation · Business intelligence · EDA & stakeholder communication*
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![ReAct](https://img.shields.io/badge/ReAct-0d1b2a?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-| # | What I Built | Impact |
-|---|-------------|--------|
-| 📊 | Interactive Power BI dashboards with drill-through analytics, KPI tracking, and dynamic filters for real-time operational reporting | **Real-time C-suite visibility** |
-| ⚙️ | Automated reporting workflows using Power Query and Python pipelines — eliminated manual effort across the team | **+40% team productivity** |
-| 📈 | Sales performance optimization — Regression & Ensemble ML on large-scale transactional datasets; automated pipelines saving 10+ hours/week | **+35% sales forecast accuracy** |
-| 🔍 | Advanced EDA to uncover business trends and support strategic decision-making across operational datasets | **Data-driven strategy** |
-| 🤝 | Collaborated with cross-functional teams to translate complex data insights into clear business recommendations for non-technical stakeholders | **Stakeholder-ready communications** |
-
-- 🧠 Multi-turn conversational agent with ConversationBufferMemory
-- 🔧 Tools: ticket lookup · order history · KB search · refund processing
-- 🎯 Intent classification + entity extraction via LLMs
-- 📊 **85% first-contact resolution · 92% escalation accuracy · 70% less routing**
-- 🖥️ Deployed via Streamlit — real-time agent action transparency
----
-
-</td>
-<td width="50%" valign="top">
 ## 🚀 Featured Projects
 
 ### 💡 Customer Insights & Personalization Engine
@@ -276,7 +241,7 @@ class DataScientist:
 <td width="50%" valign="top">
 
 ### 📊 Customer Churn Prediction & Retention
-@@ -214,44 +235,29 @@
+@@ -214,44 +235,29 @@ me.say_hi()
 ![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-0d1b2a?style=flat-square&logo=python&logoColor=58A6FF)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -325,7 +290,7 @@ class DataScientist:
 - 🏥 Recommends medicines, home remedies & lifestyle changes
 - ⚠️ Severity grading with smart doctor-referral triggers
 
-@@ -263,13 +269,46 @@
+@@ -263,13 +269,46 @@ me.say_hi()
 
 ![RAG](https://img.shields.io/badge/RAG-FFD700?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
@@ -375,7 +340,7 @@ class DataScientist:
 </td>
 </tr>
 </table>
-@@ -282,7 +321,7 @@
+@@ -282,7 +321,7 @@ me.say_hi()
 
 | 🏅 | Award | Event | Year |
 |:--:|:------|:------|:----:|
@@ -384,7 +349,7 @@ class DataScientist:
 | 🥈 | **Runner-Up** | ANVESHAN — South Zone Level | 2025 |
 | 🥉 | **2nd Place** | AI4LIFE Hackathon — IISER Tirupati | 2026 |
 
-@@ -314,9 +353,8 @@
+@@ -314,9 +353,8 @@ me.say_hi()
 
 | 🎓 Qualification | 🏫 Institution | 📊 Score |
 |:----------------|:--------------|:--------:|
@@ -395,7 +360,7 @@ class DataScientist:
 
 </div>
 
-@@ -346,11 +384,11 @@
+@@ -346,11 +384,11 @@ me.say_hi()
 
 > *I'm actively looking for **Data Scientist** and **AI Engineer** roles where I can ship production systems that matter.*
 >
