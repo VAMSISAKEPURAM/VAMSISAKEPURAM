@@ -1,14 +1,16 @@
-@@ -6,19 +6,19 @@
-     ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  -->
+<!--
+     ╔═══╗██╗   ██╗ █████╗ ███╗   ███╗███████╗██╗
+     ║   ║██║   ██║██╔══██╗████╗ ████║██╔════╝██║
+     ╚═══╝██║   ██║███████║██╔████╔██║███████╗██║
+     ╔═══╗╚██╗ ██╔╝██╔══██║██║╚██╔╝██║╚════██║██║
+     ╚═══╝ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║███████║██║
+     ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝ -->
 
 <div align="center">
-  <img src="./banner.png" alt="Sakepuram Vamsi — Data Scientist · AI Engineer · Agent Architect" width="100%" />
-</div> 
   <img src="./banner.png" alt="Sakepuram Vamsi — Data Scientist · AI Engineer · RAG Specialist" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=🤖+Building+Agentic+AI+Systems+that+ship+to+production;🧠+LangChain+·+RAG+·+GPT-4+·+Multi-Agent+Orchestration;📊+94%25+Churn+Model+·+85%25+First-Contact+Resolution;🔬+2%2B+Years+·+End-to-End+ML+%26+GenAI+Engineering" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=🤖+Building+RAG+Pipelines+%26+Agentic+AI+that+ship+to+production;🧠+LangChain+·+GPT-4+·+FAISS+·+HuggingFace+Embeddings;📊+95%25+Crop+Yield+·+94%25+Churn+·+90%25+Weather+Forecasting;🌾+SmartAgri+AI+·+50%2C000%2B+Farmers+·+6+ML%2FDL+Models" alt="Typing SVG" />
 </div>
 
@@ -17,16 +19,17 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-sakepuram-datascience)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsisakepuram232@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsisakepuram@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAMSISAKEPURAM)
 [![Profile Views](https://komarev.com/ghpvc/?username=VAMSISAKEPURAM&label=Profile+Views&color=1a3a5c&style=for-the-badge)](https://github.com/VAMSISAKEPURAM)
 
-@@ -31,36 +31,41 @@
+</div>
+
+<br/>
+
 ```python
 #!/usr/bin/env python3
 # ──────────────────────────────────────────────────────────────────────
-#  Sakepuram Vamsi  ·  Data Scientist & AI Engineer  ·  Bangalore, India
 #  Sakepuram Vamsi  ·  Data Scientist & GenAI Associate  ·  Bengaluru, India
 # ──────────────────────────────────────────────────────────────────────
 
@@ -34,33 +37,22 @@ class DataScientist:
 
     def __init__(self):
         self.name        = "Sakepuram Vamsi"
-        self.role        = "Data Scientist @ AI/ML LABS Pvt. Ltd."
-        self.location    = "📍 Bangalore, India | Open to Relocation"
-        self.education   = "B.Sc. Maths & CS — Sri Venkateswara University (CGPA: 9.10)"
         self.role        = "Data Scientist & GenAI Associate @ AI/ML Labs"
         self.location    = "📍 Bengaluru, India | Open to Relocation"
         self.education   = {
-            "MCA (2024–2026)"          : "Sri Venkateswara University — CGPA: 8.2",
-            "B.Sc. Maths & CS (2021–2024)" : "Sri Venkateswara University — CGPA: 9.10",
+            "MCA (2024–2026)"              : "Sri Venkateswara University — CGPA: 8.2",
+            "B.Sc. Maths & CS (2021–2024)"  : "Sri Venkateswara University — CGPA: 9.10",
         }
 
         self.what_i_build = [
-            "🔍  RAG pipelines       →  Pinecone + FAISS + OpenAI Embeddings",
-            "📊  Predictive ML       →  XGBoost + SHAP + Bayesian Tuning",
-            "🌿  Computer Vision     →  CNN + TensorFlow + Transfer Learning",
-            "⚙️  End-to-end deploy   →  FastAPI + Streamlit + Docker",
             "🤖  Agentic AI & RAG systems  →  LangChain + GPT-4 + FAISS + OpenAI Embeddings",
             "🌾  Precision Agriculture AI  →  6 ML/DL models · 50,000+ farmers served",
             "📊  Predictive ML pipelines   →  XGBoost + SHAP + Bayesian Tuning",
             "🌿  Computer Vision           →  EfficientNet + TensorFlow + Transfer Learning",
+            "⚡  Time-Series Forecasting   →  LSTM + Prophet + Weather API Integration",
         ]
 
         self.proven_results = {
-            "Churn Prediction Accuracy"  : "94% (XGBoost + ensemble)",
-            "First-Contact Resolution"   : "85% (AI Agent, no human needed)",
-            "Manual Ticket Routing Cut"  : "70% reduction",
-            "RAG Recommendation Relevance": "88%",
-            "Retention Campaign Lift"    : "+18% pilot improvement",
             "Crop Yield Prediction Accuracy"     : "95%  (XGBoost — SmartAgri AI)",
             "Churn Prediction Accuracy"          : "94%  (XGBoost + Ensemble + SHAP)",
             "Weather Early Warning Accuracy"     : "90%+ (LSTM — 24–72hr ahead)",
@@ -72,45 +64,54 @@ class DataScientist:
         }
 
         self.achievements = [
-            "🥇  ANVESHAN 2025 — University 1st Place (Data Science)",
             "🥇  ANVESHAN 2025 — University Level 1st Place",
             "🥈  ANVESHAN 2025 — South Zone Runner-Up",
             "🥉  AI4LIFE Hackathon 2026 — 2nd Place @ IISER Tirupati",
         ]
-@@ -83,14 +88,16 @@ me.say_hi()
+
+    def say_hi(self):
+        print(f"Hi, I'm {self.name} — {self.role}")
+        print(f"{self.location}")
+
+me = DataScientist()
+me.say_hi()
+```
+
+<br/>
+
+<div align="center">
+
+## 📈 Impact at a Glance
 
 | Metric | Result | Project |
 |:-------|:------:|:--------|
 | 🌾 Crop Yield Prediction | **95%** | XGBoost Regressor — SmartAgri AI |
-| 🎯 Churn Model Accuracy | **94%** | XGBoost + Ensemble + SHAP |
-| 🤖 First-Contact Resolution | **85%** | Agentic AI Support System |
-| ⚡ Manual Routing Reduction | **70%** | LangChain + GPT-4 Agent |
-| 💡 RAG Recommendation Relevance | **88%** | Pinecone + GPT-4 Embeddings |
-| 🚀 SpaceX Launch Prediction | **96%** | IBM Capstone — Scikit-learn |
-| 🌿 Crop Disease Detection | **94%** | CNN — TensorFlow/Keras |
 | 🌿 Plant Disease Detection | **94%** | EfficientNet CNN — TensorFlow/Keras |
+| 🎯 Churn Model Accuracy | **94%** | XGBoost + Ensemble + SHAP |
 | ⛅ Weather Early Warning | **90%+** | LSTM — 24–72hr Ahead |
 | 🤖 RAG Farmer Response Boost | **70% faster** | GPT-4 + LangChain + FAISS |
 | 💰 Market Price Forecast | **85%+** | LSTM + Prophet Hybrid |
 | 📈 Retention Campaign Lift | **+18%** | Churn Risk Segmentation |
-| ⏱️ Report Turnaround Cut | **-50%** | NLP-to-SQL Agent |
 | ⚙️ Team Productivity Gain | **+40%** | Power Query + Python Automation |
 | 💧 Water Usage Reduction | **−30%** | Smart Irrigation — IoT + Regression |
+| 📊 Sales Forecast Accuracy | **+35%** | Ensemble ML — Large-scale Data |
 
 </div>
 
-@@ -103,15 +110,16 @@ me.say_hi()
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
 ### ⚡ Agentic AI & Generative AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=for-the-badge&logo=chainlink&logoColor=58A6FF)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-0d1b2a?style=for-the-badge&logo=openai&logoColor=FFD700)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-003087?style=for-the-badge&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1a3a5c?style=for-the-badge&logo=openai&logoColor=white)
-![ReAct](https://img.shields.io/badge/ReAct_Pattern-0a0f1e?style=for-the-badge&logo=openai&logoColor=58A6FF)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-161B22?style=for-the-badge&logo=openai&logoColor=7ec8e3)
 ![LangChain Agents](https://img.shields.io/badge/LangChain_Agents-0a0f1e?style=for-the-badge&logo=chainlink&logoColor=58A6FF)
 
 ### 🧠 Machine Learning
@@ -119,29 +120,25 @@ class DataScientist:
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-0d1b2a?style=for-the-badge&logo=python&logoColor=58A6FF)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=python&logoColor=white)
-@@ -120,23 +128,34 @@ me.say_hi()
+
 ### 🔬 Deep Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-0d1b2a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![LSTM](https://img.shields.io/badge/LSTM-1a3a5c?style=for-the-badge&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-1a3a5c?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 💬 NLP & Embeddings
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-1C3A4A?style=for-the-badge&logo=huggingface&logoColor=58A6FF)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenAI Embeddings](https://img.shields.io/badge/OpenAI_Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Word2Vec](https://img.shields.io/badge/Word2Vec-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TF--IDF](https://img.shields.io/badge/TF--IDF-483D8B?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🐍 Programming & Data
-![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_8.0-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -157,29 +154,22 @@ class DataScientist:
 
 </div>
 
-@@ -145,67 +164,69 @@ me.say_hi()
+---
+
 ## 💼 Professional Experience
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ANTS_IT_Solutions_Pvt._Ltd.-Data_Scientist-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%2FML_Labs-Data_Scientist_%26_GenAI_Associate-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Jun_2024_–_Present-Hyderabad,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
   <img src="https://img.shields.io/badge/Nov_2025_–_Present-Bengaluru,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
 </div>
 
 <br/>
 
-> *End-to-end ML & GenAI engineering · Agent deployment · Stakeholder analytics · Production monitoring*
 > *End-to-end ML & GenAI engineering · RAG pipeline development · SHAP explainability · Precision agriculture AI*
 
 | # | What I Built | Impact |
 |---|-------------|--------|
-| 💡 | GenAI Customer Insights Engine — RAG pipeline (Pinecone + GPT-4 embeddings), transformer sentiment analysis, few-shot marketing content | **88% recommendation relevance** |
-| 📊 | Customer Churn Prediction — XGBoost + ensemble, 50+ features, Bayesian tuning, SHAP explainability | **94% accuracy · +18% pilot retention lift** |
-| 🔗 | LangChain semantic search, lookalike segmentation, unstructured feedback analysis, model drift monitoring | **Production-grade · Continuous tracking** |
-| 🗄️ | NLP-to-SQL agents for natural language DB queries; Power BI dashboards for C-suite KPI tracking | **−50% report turnaround · Real-time visibility** |
-| ⚙️ | Automated reporting with Python pipelines, CNN/ANN computer vision tasks via TensorFlow & Keras | **+40% team productivity · 90%+ CV accuracy** |
 | 🌾 | SmartAgri AI (team) — full-stack platform consolidating 6 ML/DL models for crop yield prediction, plant disease detection, weather forecasting, smart irrigation, market price prediction & RAG chatbot | **50,000+ farmers served** |
 | 🤖 | RAG-powered AI chatbot — GPT-4 + LangChain + OpenAI Embeddings + FAISS vector store for real-time crop diagnostics & irrigation advisories | **70% faster farmer field response** |
 | 📦 | LLM API integration (GPT-4 & Gemini) for chatbot & advisory modules; document Q&A using HuggingFace `all-MiniLM-L6-v2` semantic search over agricultural knowledge bases | **Production-grade semantic retrieval** |
@@ -187,40 +177,37 @@ class DataScientist:
 | 📊 | Crop yield forecasting (XGBoost, 95% accuracy) & churn analysis with SHAP-based explainability — top 5 drivers communicated to non-technical stakeholders | **Top 5 churn drivers identified · +18% retention** |
 | 🔬 | EDA & feature engineering across transactional, demographic, and agricultural datasets; Bayesian hyperparameter tuning + cross-validation | **Continuous · Production-grade monitoring** |
 
----
+<br/>
 
-## 🚀 Featured Projects
 <div align="center">
   <img src="https://img.shields.io/badge/Pantech_AI_Solutions-Data_Analyst_Intern-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Feb_2025_–_Aug_2025-Bengaluru,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
 <br/>
+
+> *Dashboard design · Workflow automation · Business intelligence · EDA & stakeholder communication*
+
+| # | What I Built | Impact |
+|---|-------------|--------|
+| 📊 | Interactive Power BI dashboards with drill-through analytics, KPI tracking, and dynamic filters for real-time operational reporting | **Real-time C-suite visibility** |
+| ⚙️ | Automated reporting workflows using Power Query and Python pipelines — eliminated manual effort across the team | **+40% team productivity** |
+| 📈 | Sales performance optimization — Regression & Ensemble ML on large-scale transactional datasets; automated pipelines saving 10+ hours/week | **+35% sales forecast accuracy** |
+| 🔍 | Advanced EDA to uncover business trends and support strategic decision-making across operational datasets | **Data-driven strategy** |
+| 🤝 | Collaborated with cross-functional teams to translate complex data insights into clear business recommendations for non-technical stakeholders | **Stakeholder-ready communications** |
+
+---
 
 ## 🚀 Featured Projects
 
-### 💡 Customer Insights & Personalization Engine
-> **Generative AI · RAG · Pinecone · NLP**
 <table>
 <tr>
 <td width="50%" valign="top">
 
-![RAG](https://img.shields.io/badge/RAG-FFD700?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
 ### 🌾 SmartAgri AI — Precision Agriculture Platform
 > **Full-stack AI · Team Project · Feb 2026 – Present**
 
-- 🔍 RAG pipeline (Pinecone + GPT-4) for personalised product recommendations
-- ✍️ Automated marketing content via few-shot prompting
-- 💬 Transformer-based sentiment analysis for churn & satisfaction drivers
-- 🎯 Embedding similarity search for lookalike customer segmentation
-- 📈 **88% recommendation relevance score**
 ![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=python&logoColor=white)
 ![LangChain RAG](https://img.shields.io/badge/LangChain_RAG-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
 ![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -235,13 +222,11 @@ class DataScientist:
 - 🤖 **RAG AI Chatbot**: GPT-4 + LangChain + FAISS — **70% faster field response**
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 Customer Churn Prediction & Retention
-@@ -214,44 +235,29 @@ me.say_hi()
+> **Predictive ML · XGBoost · SHAP Explainability**
+
 ![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-0d1b2a?style=flat-square&logo=python&logoColor=58A6FF)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -249,26 +234,9 @@ class DataScientist:
 
 - ⚙️ 50+ engineered features from transaction, demographic & behavioural data
 - 🔬 Bayesian hyperparameter tuning + cross-validation
-- 💥 SHAP explainability — top 5 churn drivers identified
 - 💥 SHAP explainability — top 5 churn drivers identified & communicated
 - 📡 Model monitoring pipeline with drift detection
 - 🎯 **94% accuracy · +18% pilot campaign retention**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 SmartAgri-AI
-> **Computer Vision · CNN · Weather API Integration**
-
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- 🌿 CNN model for crop leaf disease detection
-- 💊 AI pesticide & crop recommender from soil + weather data
-- ☁️ Weather-integrated disease forecasting & spray scheduling
-- 🛒 Farmer-buyer communication platform with price discovery
-- 🎯 **94% accuracy on leaf disease images**
 
 </td>
 </tr>
@@ -276,7 +244,6 @@ class DataScientist:
 <tr>
 <td width="50%" valign="top">
 
-### 🧴 SkinCare-AI
 ### 🧴 SkinCare AI
 > **Computer Vision · Generative AI · Healthcare**
 
@@ -285,22 +252,22 @@ class DataScientist:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - 📸 Image-based skin disease diagnosis via CNN classifier
-- 💊 AI generates complete step-by-step treatment roadmap
 - 💊 AI generates a complete step-by-step treatment roadmap
 - 🏥 Recommends medicines, home remedies & lifestyle changes
 - ⚠️ Severity grading with smart doctor-referral triggers
 
-@@ -263,13 +269,46 @@ me.say_hi()
+</td>
+<td width="50%" valign="top">
+
+### 🎓 University RAG Chatbot
+> **RAG · LangChain · HuggingFace**
 
 ![RAG](https://img.shields.io/badge/RAG-FFD700?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
-![NLP](https://img.shields.io/badge/NLP-58A6FF?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=flat-square&logo=huggingface&logoColor=black)
 
-- 🏫 24/7 institutional chatbot grounded on official documents
 - 🏫 24/7 institutional chatbot grounded on official university documents
 - 📄 DocuMind: upload PDF/DOCX/TXT → ask anything, get cited answers
-- 🔍 Semantic chunking for pinpoint retrieval accuracy
 - 🔍 Semantic chunking via `all-MiniLM-L6-v2` for pinpoint retrieval
 - 💬 Contextual memory across multi-turn conversations
 
@@ -340,37 +307,50 @@ class DataScientist:
 </td>
 </tr>
 </table>
-@@ -282,7 +321,7 @@ me.say_hi()
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
 
 | 🏅 | Award | Event | Year |
 |:--:|:------|:------|:----:|
-| 🥇 | **1st Place** | ANVESHAN — University Level Data Science | 2025 |
 | 🥇 | **1st Place** | ANVESHAN — University Level | 2025 |
 | 🥈 | **Runner-Up** | ANVESHAN — South Zone Level | 2025 |
 | 🥉 | **2nd Place** | AI4LIFE Hackathon — IISER Tirupati | 2026 |
 
-@@ -314,9 +353,8 @@ me.say_hi()
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
 
 | 🎓 Qualification | 🏫 Institution | 📊 Score |
 |:----------------|:--------------|:--------:|
 | Master of Computer Applications — MCA (2024–2026) | Sri Venkateswara University | **CGPA: 8.2** |
 | B.Sc. Mathematics & Computer Science (2021–2024) | Sri Venkateswara University | **CGPA: 9.10** |
-| Intermediate — MPC (2019–2021) | Sai Sri Chaitanya Jr. College | **831 / 1000** |
-| SSC (2018–2019) | Municipal High School | **GPA: 7.8** |
 
 </div>
 
-@@ -346,11 +384,11 @@ me.say_hi()
+---
+
+<div align="center">
+
+## 📬 Let's Connect
 
 > *I'm actively looking for **Data Scientist** and **AI Engineer** roles where I can ship production systems that matter.*
 >
-> *Reach me at **vamsisakepuram232@gmail.com** — I reply fast.*
 > *Reach me at **vamsisakepuram@gmail.com** — I reply fast.*
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsisakepuram232@gmail.com)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsisakepuram@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-sakepuram-datascience)
 &nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAMSISAKEPURAM)
+
+</div>
