@@ -306,6 +306,27 @@ me.say_hi()
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💡 Customer Insights & Personalization Engine
+> **Generative AI · RAG · Pinecone · NLP**
+
+![RAG](https://img.shields.io/badge/RAG-FFD700?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3A4A?style=flat-square&logo=chainlink&logoColor=58A6FF)
+
+- 🔍 RAG pipeline (Pinecone + GPT-4 embeddings) for personalized product recommendations
+- 🧠 LangChain chains for semantic product search & customer preference analysis from unstructured feedback
+- 💬 Transformer-based NLP sentiment analysis at scale — uncovered key satisfaction & churn drivers
+- 🔬 EDA, statistical analysis & feature engineering on structured/unstructured data to improve embedding quality
+- 📏 Evaluated pipeline on retrieval relevance, semantic similarity & response quality; optimized chunking & prompt engineering
+- 📈 **88% recommendation relevance score**
+
+</td>
+</tr>
 </table>
 
 ---
