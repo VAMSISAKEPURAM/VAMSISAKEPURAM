@@ -37,10 +37,9 @@ class DataScientist:
 
     def __init__(self):
         self.name        = "Sakepuram Vamsi"
-        self.role        = "Data Scientist & GenAI Associate @ AI/ML Labs"
+        self.role        = "Data Scientist & GenAI Associate @ INDIES TECHNOLOGIES"
         self.location    = "📍 Bengaluru, India | Open to Relocation"
         self.education   = {
-            "MCA (2024–2026)"              : "Sri Venkateswara University — CGPA: 8.2",
             "B.Sc. Maths & CS (2021–2024)"  : "Sri Venkateswara University — CGPA: 9.10",
         }
 
@@ -351,7 +350,6 @@ me.say_hi()
 
 | 🎓 Qualification | 🏫 Institution | 📊 Score |
 |:----------------|:--------------|:--------:|
-| Master of Computer Applications — MCA (2024–2026) | Sri Venkateswara University | **CGPA: 8.2** |
 | B.Sc. Mathematics & Computer Science (2021–2024) | Sri Venkateswara University | **CGPA: 9.10** |
 
 </div>
@@ -364,7 +362,7 @@ me.say_hi()
 
 > *I'm actively looking for **Data Scientist** and **AI Engineer** roles where I can ship production systems that matter.*
 >
-> *Reach me at **vamsisakepuram@gmail.com** — I reply fast.*
+> *Reach me at **sakepuramvamsi@gmail.com** — I reply fast.*
 
 <br/>
 
