@@ -178,26 +178,6 @@ me.say_hi()
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Pantech_AI_Solutions-Data_Analyst_Intern-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Feb_2025_–_Aug_2025-Bengaluru,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
-</div>
-
-<br/>
-
-> *Dashboard design · Workflow automation · Business intelligence · EDA & stakeholder communication*
-
-| # | What I Built | Impact |
-|---|-------------|--------|
-| 📊 | Interactive Power BI dashboards with drill-through analytics, KPI tracking, and dynamic filters for real-time operational reporting | **Real-time C-suite visibility** |
-| ⚙️ | Automated reporting workflows using Power Query and Python pipelines — eliminated manual effort across the team | **+40% team productivity** |
-| 📈 | Sales performance optimization — Regression & Ensemble ML on large-scale transactional datasets; automated pipelines saving 10+ hours/week | **+35% sales forecast accuracy** |
-| 🔍 | Advanced EDA to uncover business trends and support strategic decision-making across operational datasets | **Data-driven strategy** |
-| 🤝 | Collaborated with cross-functional teams to translate complex data insights into clear business recommendations for non-technical stakeholders | **Stakeholder-ready communications** |
-
----
-
 ## 🚀 Featured Projects
 
 <table>
