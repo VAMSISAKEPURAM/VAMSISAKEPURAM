@@ -37,7 +37,7 @@ class DataScientist:
 
     def __init__(self):
         self.name        = "Sakepuram Vamsi"
-        self.role        = "Data Scientist & GenAI Associate @ INDIES TECHNOLOGIES"
+        self.role        = "Data Scientist & GenAI Associate @ AIML LABS"
         self.location    = "📍 Bengaluru, India | Open to Relocation"
         self.education   = {
             "B.Sc. Maths & CS (2021–2024)"  : "Sri Venkateswara University — CGPA: 9.10",
