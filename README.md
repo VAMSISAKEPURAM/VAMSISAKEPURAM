@@ -37,7 +37,7 @@ class DataScientist:
 
     def __init__(self):
         self.name        = "Sakepuram Vamsi"
-        self.role        = "Data Scientist & GenAI Associate @ AIML LABS"
+        self.role        = "Data Scientist & GenAI Engineer"
         self.location    = "📍 Bengaluru, India | Open to Relocation"
         self.education   = {
             "B.Sc. Maths & CS (2021–2024)"  : "Sri Venkateswara University — CGPA: 9.10",
@@ -154,14 +154,6 @@ me.say_hi()
 </div>
 
 ---
-
-## 💼 Professional Experience
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%2FML_Labs-Data_Scientist_%26_GenAI_Associate-58A6FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nov_2025_–_Present-Bengaluru,_India-0d1b2a?style=for-the-badge&logo=googlemaps&logoColor=7ec8e3"/>
-</div>
 
 <br/>
 
